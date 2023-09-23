@@ -1,6 +1,29 @@
 {
   "name": "sized-stack",
+  "description": "A stack data structure with a fixed optional maximum size",
   "version": "0.0.0",
+  "author": {
+    "name": "Omar Ali",
+    "email": "omar.ali3898@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/OmarAli3/Sized-Stack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OmarAli3/Sized-Stack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OmarAli3/Sized-Stack/issues"
+  },
+  "keywords": [
+    "stack",
+    "data structure",
+    "data structures",
+    "stack data structure",
+    "stacks",
+    "sized stack",
+    "fixed size"
+  ],
   "type": "module",
   "main": "./dist/sized-stack.umd.cjs",
   "module": "./dist/sized-stack.js",
