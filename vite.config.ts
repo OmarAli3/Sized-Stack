@@ -12,6 +12,6 @@ export default defineConfig({
       fileName: "sized-stack",
     },
   },
-  plugins: [dts()],
+  plugins: [dts({ rollupTypes: true })],
   test: {},
 });
